@@ -3,7 +3,7 @@
 
 Welcome to my portfolio of cartographic and geospatial analysis projects. This collection showcases thematic maps, spatial modeling, and data visualizations built using GIS tools and remote sensing techniques.
 
-I recently graduated **summa cum laude** with a B.S. in Data Science and a Certificate in GIS from **Arizona State University**, and I am transitioning from a 15-year career as a medical lab technician to the geospatial field.
+I recently graduated **summa cum laude** with a B.S. in Data Science and a Certificate in GIS from **Arizona State University**, and I am transitioning from a 15-year career as a medical lab technician to the geospatial field. 
 
 ---
 
