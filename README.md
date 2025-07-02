@@ -84,19 +84,19 @@ This repository contains a curated set of maps created for coursework, capstone 
 <br/>
 <br/>
 
-- **North Albany District Expansion Map**  
-  Outlines current and proposed municipal boundaries in Albany, Oregon for planning purposes.
-  
-<img src="Urban_and_Transportation_Analysis/North_Albany_District_Expansion_Map.jpg" alt="Albany Expansion Map" width="300"/>
-<a href="Urban_and_Transportation_Analysis/North_Albany_District_Expansion_Map.jpg" target="_blank"> View full-size map</a>
-<br/>
-<br/>
-
 - **Shortest Driving Routes – USC to Dodger Stadium**  
   Compares the shortest-distance route and the fastest-time route between two Los Angeles landmarks using network modeling.
   
 <img src="Urban_and_Transportation_Analysis/Shortest_Routes_USC_to_Dodger_Stadium_LA.jpg" alt="USC to Dodger Stadium Routes" width="300"/>
 <a href="Urban_and_Transportation_Analysis/Shortest_Routes_USC_to_Dodger_Stadium_LA.jpg" target="_blank"> View full-size map</a>
+<br/>
+<br/>
+
+- **North Albany District Expansion Map**  
+  Outlines current and proposed municipal boundaries in Albany, Oregon for planning purposes.
+  
+<img src="Urban_and_Transportation_Analysis/North_Albany_District_Expansion_Map.jpg" alt="Albany Expansion Map" width="300"/>
+<a href="Urban_and_Transportation_Analysis/North_Albany_District_Expansion_Map.jpg" target="_blank"> View full-size map</a>
 <br/>
 <br/>
 
@@ -117,14 +117,6 @@ This repository contains a curated set of maps created for coursework, capstone 
   
 <img src="Wildlife_and_Habitat_Studies/Bald_Eagle_Habitat_Suitability_San_Bernardino.jpg" alt="Bald Eagle Habitat Suitability" width="300"/>
 <a href="Wildlife_and_Habitat_Studies/Bald_Eagle_Habitat_Suitability_San_Bernardino.jpg" target="_blank"> View full-size map</a>
-<br/>
-<br/>
-
-- **Fisher Range – Linkage and Barriers in Oregon**  
-  Map of known barriers and priority habitat corridors for the fisher, a sensitive carnivore species.
-  
-<img src="Wildlife_and_Habitat_Studies/fisher_range_linkage_barriers_oregon.jpg" alt="Fisher Range Linkage and Barriers" width="300"/>
-<a href="Wildlife_and_Habitat_Studies/fisher_range_linkage_barriers_oregon.jpg" target="_blank"> View full-size map</a>
 <br/>
 <br/>
 
@@ -149,6 +141,14 @@ This repository contains a curated set of maps created for coursework, capstone 
 
 <img src="Wildlife_and_Habitat_Studies/oregon_wildlife_habitats_raster_map.jpg" alt="Oregon Wildlife Habitats Raster" width="300"/>
 <a href="Wildlife_and_Habitat_Studies/oregon_wildlife_habitats_raster_map.jpg" target="_blank"> View full-size map</a>
+<br/>
+<br/>
+
+- **Fisher Range – Linkage and Barriers in Oregon**  
+  Map of known barriers and priority habitat corridors for the fisher, a sensitive carnivore species.
+  
+<img src="Wildlife_and_Habitat_Studies/fisher_range_linkage_barriers_oregon.jpg" alt="Fisher Range Linkage and Barriers" width="300"/>
+<a href="Wildlife_and_Habitat_Studies/fisher_range_linkage_barriers_oregon.jpg" target="_blank"> View full-size map</a>
 <br/>
 <br/>
 
