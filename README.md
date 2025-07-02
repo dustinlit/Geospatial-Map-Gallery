@@ -123,8 +123,8 @@ This repository contains a curated set of maps created for coursework, capstone 
 - **Fisher Range – Linkage and Barriers in Oregon**  
   Map of known barriers and priority habitat corridors for the fisher, a sensitive carnivore species.
   
-<img src="Wildlife_and_Habitat_Studies/Fisher_Range_Linkage_Barriers_Oregon.jpg" alt="Fisher Range Linkage and Barriers" width="300"/>
-<a href="Wildlife_and_Habitat_Studies/Fisher_Range_Linkage_Barriers_Oregon.jpg" target="_blank"> View full-size map</a>
+<img src="Wildlife_and_Habitat_Studies/fisher_range_linkage_barriers_oregon.jpg" alt="Fisher Range Linkage and Barriers" width="300"/>
+<a href="Wildlife_and_Habitat_Studies/fisher_range_linkage_barriers_oregon.jpg" target="_blank"> View full-size map</a>
 <br/>
 <br/>
 
@@ -139,32 +139,32 @@ This repository contains a curated set of maps created for coursework, capstone 
 - **Species Linkage Buffers – Oregon**  
   Overlapping buffer zones illustrating connectivity corridors by species group (amphibians, mammals, etc.).
   
-<img src="Wildlife_and_Habitat_Studies/Oregon_Species_Linkage_Buffers.jpg" alt="Species Linkage Buffers" width="300"/>
-<a href="Wildlife_and_Habitat_Studies/Oregon_Species_Linkage_Buffers.jpg" target="_blank"> View full-size map</a>
+<img src="Wildlife_and_Habitat_Studies/oregon_species_linkage_buffers.jpg" alt="Species Linkage Buffers" width="300"/>
+<a href="Wildlife_and_Habitat_Studies/oregon_species_linkage_buffers.jpg" target="_blank"> View full-size map</a>
 <br/>
 <br/>
 
 - **Wildlife Habitats – Oregon Raster Map**  
   Classified habitat raster showing statewide general wildlife zones.
 
-<img src="Wildlife_and_Habitat_Studies/Oregon_Wildlife_Habitats_Raster_Map.jpg" alt="Oregon Wildlife Habitats Raster" width="300"/>
-<a href="Wildlife_and_Habitat_Studies/Oregon_Wildlife_Habitats_Raster_Map.jpg" target="_blank"> View full-size map</a>
+<img src="Wildlife_and_Habitat_Studies/oregon_wildlife_habitats_raster_map.jpg" alt="Oregon Wildlife Habitats Raster" width="300"/>
+<a href="Wildlife_and_Habitat_Studies/oregon_wildlife_habitats_raster_map.jpg" target="_blank"> View full-size map</a>
 <br/>
 <br/>
 
 - **Pacific Marten Range – Linkage and Barriers in Oregon**  
   Connectivity and fragmentation analysis with habitat classification and species imagery.
   
-<img src="Wildlife_and_Habitat_Studies/Pacific_Marten_Linkage_Barriers_Oregon.jpg" alt="Pacific Marten Linkage and Barriers" width="300"/>
-<a href="Wildlife_and_Habitat_Studies/Pacific_Marten_Linkage_Barriers_Oregon.jpg" target="_blank"> View full-size map</a>
+<img src="Wildlife_and_Habitat_Studies/pacific_marten_linkage_barriers_oregon.jpg" alt="Pacific Marten Linkage and Barriers" width="300"/>
+<a href="Wildlife_and_Habitat_Studies/pacific_marten_linkage_barriers_oregon.jpg" target="_blank"> View full-size map</a>
 <br/>
 <br/>
 
 - **Wolverine Range – Linkage and Barriers in Oregon**  
   Visualization of natural and manmade barriers affecting wolverine habitat connectivity.
   
-<img src="Wildlife_and_Habitat_Studies/Wolverine_Range_Linkage_Barriers_Oregon.jpg" alt="Wolverine Range Linkage and Barriers" width="300"/>
-<a href="Wildlife_and_Habitat_Studies/Wolverine_Range_Linkage_Barriers_Oregon.jpg" target="_blank"> View full-size map</a>
+<img src="Wildlife_and_Habitat_Studies/Wolverine Range Linkage and Barriers.jpg" alt="Wolverine Range Linkage and Barriers" width="300"/>
+<a href="Wildlife_and_Habitat_Studies/Wolverine Range Linkage and Barriers.jpg" target="_blank"> View full-size map</a>
 <br/>
 <br/>
 
