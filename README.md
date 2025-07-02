@@ -25,7 +25,9 @@ This repository contains a curated set of maps created for coursework, capstone 
 
 - **Douglas Fir Distribution – Linn County, Oregon**  
   Binary raster map showing presence of Douglas Fir forests with inset illustrations for visual context.
-
+  
+ <img src="Forestry_and_Land_Use/Douglas_Fir_Distribution_Linn_County_Oregon.jpg" alt="Douglas Fir Distribution" width="400"/>
+  
 - **Linn County Waterways – Oregon Hydrology Map**  
   Detailed reference map of streams and rivers using high-resolution hydrography data.
 
@@ -50,6 +52,8 @@ This repository contains a curated set of maps created for coursework, capstone 
 
 - **North Albany District Expansion Map**  
   Outlines current and proposed municipal boundaries in Albany, Oregon for planning purposes.
+
+<img src="Urban_and_Transportation_Analysis/North_Albany_District_Expansion_Map.jpg" alt="North Albany District Expansion" width="400"/>
 
 - **Light Rail Population – Census Tracts (With vs. Without Interpolation)**  
   Side-by-side comparison showing the difference interpolation makes in estimating population within a light rail service area.
