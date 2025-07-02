@@ -7,7 +7,7 @@ I recently graduated **summa cum laude** with a B.S. in Data Science and a Certi
 
 ---
 
-## 📍 About This Portfolio
+## About This Portfolio
 
 This repository contains a curated set of maps created for coursework, capstone projects, and independent study. The maps demonstrate:
 
@@ -19,9 +19,9 @@ This repository contains a curated set of maps created for coursework, capstone 
 
 ---
 
-## 🗂️ Map Categories
+## Map Categories
 
-### 🌲 Forestry and Land Use
+### Forestry and Land Use
 
 - **Douglas Fir Distribution – Linn County, Oregon**  
   Binary raster map showing presence of Douglas Fir forests with inset illustrations for visual context.
@@ -37,7 +37,7 @@ This repository contains a curated set of maps created for coursework, capstone 
 
 ---
 
-### 🚉 Urban and Transportation Analysis
+### Urban and Transportation Analysis
 
 - **EV Charging Stations and LA Schools – Route Network Analysis**  
   Closest facility routes from schools to nearby electric vehicle charging stations in Los Angeles.
@@ -62,7 +62,7 @@ This repository contains a curated set of maps created for coursework, capstone 
 
 ---
 
-### 🐾 Wildlife and Habitat Studies
+### Wildlife and Habitat Studies
 
 - **Bald Eagle Habitat Suitability – San Bernardino National Forest**  
   Raster-based suitability analysis using slope, elevation, and proximity to water to classify nesting habitat.
@@ -87,7 +87,7 @@ This repository contains a curated set of maps created for coursework, capstone 
 
 ---
 
-### 🌫️ Environmental Health and Interpolation
+### Environmental Health and Interpolation
 
 - **CO Emissions Interpolation – Maricopa County**  
   Comparison of IDW, Kriging, and Trend Surface models to visualize annual carbon monoxide levels using spatial interpolation.
@@ -100,7 +100,7 @@ This repository contains a curated set of maps created for coursework, capstone 
 
 ---
 
-### 🌍 Global Reference
+### Global Reference
 
 - **Major Cities in Southern and Eastern Asia**  
   General reference map showing capital and major cities over shaded relief terrain and ocean bathymetry.
@@ -110,7 +110,7 @@ This repository contains a curated set of maps created for coursework, capstone 
 
 ---
 
-## 🧰 Tools & Techniques Used
+## Tools & Techniques Used
 
 - **ArcGIS Pro**
 - **QGIS**
@@ -120,11 +120,11 @@ This repository contains a curated set of maps created for coursework, capstone 
 
 ---
 
-## 📫 Contact
+## Contact
 
 **Dustin Littlefield**  
-📍 Based in Oregon | 🌐 [LinkedIn](#) www.linkedin.com/in/dustin-littlefield-629803323 
-✉️ dustinlit@gmail.com
+Based in Oregon | 🌐 [LinkedIn](#) www.linkedin.com/in/dustin-littlefield-629803323 
+dustinlit@gmail.com
 
 ---
 
