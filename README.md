@@ -231,7 +231,8 @@ This repository contains a curated set of maps created for coursework, capstone 
 ## Contact
 
 **Dustin Littlefield**  
-Based in Oregon | 🌐 [LinkedIn](#) www.linkedin.com/in/dustin-littlefield-629803323\
+Based in Oregon | www.linkedin.com/in/dustin-littlefield-629803323
+<br/>
 **Email:** dustinlit@gmail.com
 
 ---
