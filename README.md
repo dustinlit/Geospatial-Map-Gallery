@@ -274,12 +274,12 @@ This repository contains a curated set of maps created for coursework, capstone 
 ## Contact
 
 **Dustin Littlefield**  
-📍 Oregon, USA  
-🔗 [LinkedIn](https://www.linkedin.com/in/dustin-littlefield-629803323)  
-✉️ dustinlit@gmail.com
+based in Oregon, USA  
+[LinkedIn](https://www.linkedin.com/in/dustin-littlefield-629803323)  
+**Email:** dustinlit@gmail.com
 
 ---
 
-## ✅ License
+## License
 
 This portfolio is shared for demonstration and educational purposes. Please credit appropriately if reused.
