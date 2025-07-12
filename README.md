@@ -117,15 +117,6 @@ This repository contains a curated set of maps created for coursework, capstone 
 
 <br/>
 
-- **Sweet Home Urban Development Concept Map**  
-  Conceptual land use and streetscape planning for redevelopment in Sweet Home, Oregon.
-
-<img src="Urban_and_Transportation_Analysis/Sweet_Home_Urban_Development_Concept_Map.jpg" alt="Sweet Home Development" width="300"/>
-<div style="text-align: left;">
-  <a href="Urban_and_Transportation_Analysis/Sweet_Home_Urban_Development_Concept_Map.jpg" target="_blank"> View full-size map</a>
-</div>
-
-<br/>
 
 ---
 
