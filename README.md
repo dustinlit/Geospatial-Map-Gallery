@@ -250,15 +250,22 @@ This repository contains a curated set of maps created for coursework, capstone 
 
 <br/>
 
+---
+
 ### Story Maps
-[![Barriers to Wildlife Linkages in Oregon](Barriers.jpg)](https://storymaps.arcgis.com/stories/aacc9eee41f74294b807306209131ac2)
+
+<br/>
+
+<a href="https://storymaps.arcgis.com/stories/393f3b178f4748e9a6fcaf17c5e4a3f6">
+  <img src="Timber.jpg" alt="Site Suitability Analysis for Ecologically Friendly Harvesting of Douglas Fir in Linn County, OR" width="400"/>
+</a>
 
 <br/>
 <br/>
 
-
-
-[![Site Suitability Analysis for Ecologically Friendly Harvesting of Douglas Fir in Linn County, OR](Timber.jpg)](https://storymaps.arcgis.com/stories/393f3b178f4748e9a6fcaf17c5e4a3f6)
+<a href="https://storymaps.arcgis.com/stories/aacc9eee41f74294b807306209131ac2">
+  <img src="Barriers.jpg" alt="Barriers to Wildlife Linkages in Oregon" width="400"/>
+</a>
 ---
 
 ## Tools & Techniques Used
