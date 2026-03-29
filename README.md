@@ -1,21 +1,30 @@
 # Geospatial-Map-Gallery
-*By Dustin Littlefield*
 
-Welcome to my portfolio of cartographic and geospatial analysis projects. This collection showcases thematic maps, spatial modeling, and data visualizations built using GIS tools and remote sensing techniques.
+![Status: Completed](https://img.shields.io/badge/Status-Completed-success)
+[![View Report](https://img.shields.io/badge/View-Full%20Report-blue?style=for-the-badge&logo=github)](URL)
+[![Repository](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/dustinlit/Geospatial-Map-Gallery)
 
-I recently graduated **summa cum laude** with a B.S. in Data Science and a Certificate in GIS from **Arizona State University**, and I am transitioning from a 15-year career as a medical lab technician to the geospatial field. 
+**Author:** Dustin Littlefield  
+**Portfolio:** https://github.com/dustinlit  
+**Project Type:** `Cartography` `Remote Sensing` `Spatial Analysis`  
+**Technologies:** `ArcGIS Pro` `Python` `Thematic Mapping` `Remote Sensing Tools`  
+**Last Updated:** March 2026
+
+This portfolio presents a curated selection of cartographic and geospatial analysis work, highlighting thematic mapping, spatial modeling, and data visualization techniques developed through GIS and remote sensing workflows.
+
+I graduated **summa cum laude** with a B.S. in Data Science and a GIS Certificate from **Arizona State University**, and I am currently pursuing **graduate‑level remote sensing and geospatial analysis studies at Penn State**. After a 15‑year career in medical laboratory science, I am transitioning into the geospatial and environmental analytics field with a focus on clear, effective spatial communication and applied environmental problem‑solving.
 
 ---
 
 ## About This Portfolio
 
-This repository contains a curated set of maps created for coursework, capstone projects, and independent study. The maps demonstrate:
+This repository showcases a curated set of maps created across coursework, capstone projects, and independent research. The collection highlights applied geospatial methods used to interpret environmental and human‑driven patterns, including:
 
-- Spatial data visualization  
-- Cartographic design principles  
+- Spatial data visualization and thematic cartography  
+- Principles of effective map design and communication  
 - Environmental and urban planning analysis  
-- Interpolation and terrain modeling  
-- Public health and transportation applications
+- Terrain modeling, interpolation, and surface representation  
+- Public health, transportation, and land‑use applications
 
 ---
 
