@@ -1,7 +1,7 @@
 # Geospatial-Map-Gallery
 
 ![Status: Completed](https://img.shields.io/badge/Status-Completed-success)
-[![View Report](https://img.shields.io/badge/View-Full%20Report-blue?style=for-the-badge&logo=github)](URL)
+[![View Report](https://img.shields.io/badge/View-Full%20Report-blue?style=for-the-badge&logo=github)](https://dustinlit.github.io/Geospatial-Map-Gallery/)
 [![Repository](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/dustinlit/Geospatial-Map-Gallery)
 
 **Author:** Dustin Littlefield  
