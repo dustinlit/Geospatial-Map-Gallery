@@ -2,29 +2,12 @@
 layout: default
 ---
 
-# Geospatial-Map-Gallery
+## Who am I?
+Hello, my name is Dustin. I’m drawn to the intersection of data and spatial science, especially where it helps us understand the natural world.
+I graduated with a B.S. in Data Science and a GIS Certificate from Arizona State University, and I am currently pursuing graduate‑level remote sensing and geospatial analysis studies at Penn State. After a 15‑year career in medical laboratory science, I am transitioning into the geospatial and environmental analytics field with a focus on clear, effective spatial communication and applied environmental problem‑solving.
 
-![Status: Completed](https://img.shields.io/badge/Status-Completed-success)
-[![View Report](https://img.shields.io/badge/View-Full%20Report-blue?style=for-the-badge&logo=github)](https://dustinlit.github.io/Geospatial-Map-Gallery/)
-[![Repository](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/dustinlit/Geospatial-Map-Gallery)
-
-**Author:** Dustin Littlefield  
-**Portfolio:** https://github.com/dustinlit  
-**Project Type:** `Cartography` `Remote Sensing` `Spatial Analysis`  
-**Technologies:** `ArcGIS Pro` `Python` `Thematic Mapping` `Remote Sensing Tools`  
-**Last Updated:** March 2026
-
+## About This Portfolio
 This portfolio presents a curated selection of cartographic and geospatial analysis work, highlighting thematic mapping, spatial modeling, and data visualization techniques developed through GIS and remote sensing workflows.
-
-I graduated summa cum laude with a B.S. in Data Science and a GIS Certificate from Arizona State University, and I am currently pursuing graduate‑level remote sensing and geospatial analysis studies at Penn State. After a 15‑year career in medical laboratory science, I am transitioning into the geospatial and environmental analytics field with a focus on clear, effective spatial communication and applied environmental problem‑solving.
-
-## About This Portfolio
-
-This repository showcases a curated set of maps created across coursework, capstone projects, and independent research. The collection highlights applied geospatial methods used to interpret environmental and human‑driven patterns, including:
-
-## About This Portfolio
-
-This portfolio is organized into thematic categories that reflect the range of geospatial methods, cartographic techniques, and analytical workflows demonstrated across my projects.
 
 - Forestry and land‑use mapping projects  
 - Urban development and transportation analyses  
@@ -32,7 +15,6 @@ This portfolio is organized into thematic categories that reflect the range of g
 - Environmental health and interpolation work  
 - Global reference maps and datasets  
 - Story Maps created for coursework and independent projects
-
 
 ---
 
