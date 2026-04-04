@@ -12,11 +12,7 @@
 
 This portfolio presents a curated selection of cartographic and geospatial analysis work, highlighting thematic mapping, spatial modeling, and data visualization techniques developed through GIS and remote sensing workflows.
 
-I graduated summa cum laude with a B.S. in Data Science and a GIS Certificate from Arizona State University, and I am currently pursuing graduate‑level remote sensing and geospatial analysis studies at Penn State. After a 15‑year career in medical laboratory science, I am transitioning into the geospatial and environmental analytics field with a focus on clear, effective spatial communication and applied environmental problem‑solving.
-
-## About This Portfolio
-
-This repository showcases a curated set of maps created across coursework, capstone projects, and independent research. The collection highlights applied geospatial methods used to interpret environmental and human‑driven patterns, including:
+I graduated with a B.S. in Data Science and a GIS Certificate from Arizona State University, and I am currently pursuing graduate‑level remote sensing and geospatial analysis studies at Penn State. After a 15‑year career in medical laboratory science, I am transitioning into the geospatial and environmental analytics field with a focus on clear, effective spatial communication and applied environmental problem‑solving.
 
 ## About This Portfolio
 
