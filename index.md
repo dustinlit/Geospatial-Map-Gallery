@@ -2,7 +2,6 @@
 layout: default
 ---
 
-## Who am I?
 Hello, my name is Dustin. <br> <br> I’m drawn to the intersection of data and spatial science, especially where it helps us understand the natural world.
 I graduated with a B.S. in Data Science and a GIS Certificate from Arizona State University, and I am currently pursuing graduate‑level remote sensing and geospatial analysis studies at Penn State. <br> <br> After a 15‑year career in medical laboratory science, I am transitioning into the geospatial and environmental analytics field with a focus on clear, effective spatial communication and applied environmental problem‑solving.
 
