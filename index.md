@@ -47,6 +47,7 @@ This portfolio presents a curated selection of cartographic and geospatial analy
 
 ## Dixie Fire, California 2021
 [View full report →](https://dustinlit.github.io/Dixie-Fire-Burn-Severity-Analysis/)
+
 <a href="https://dustinlit.github.io/Dixie-Fire-Burn-Severity-Analysis/" target="_blank">
   <img src="Dixie_figure_5.jpg" alt="Dixie Fire Figure 5" width="800"/>
 </a>
@@ -77,7 +78,7 @@ This portfolio presents a curated selection of cartographic and geospatial analy
 </a>
 <br>
 
-## Hydrology
+## Pennsylvania Hydrology 2024
 [View full report →](https://dustinlit.github.io/Pennsylvania-Hydrology-ML-Streamflow-Forecasting/)
 
 <a href="https://dustinlit.github.io/Pennsylvania-Hydrology-ML-Streamflow-Forecasting/" target="_blank">
