@@ -20,53 +20,53 @@ This portfolio presents a curated selection of cartographic and geospatial analy
 
 #### Beachie Creek Lionshead Complex Fire, Oregon 2020 
 
-<img src="Beachie_Creek_Lionshead_Overview.jpg" alt="Douglas Fir Distribution" width="300"/>
+<img src="Beachie_Creek_Lionshead_Overview.jpg" alt="Douglas Fir Distribution" width="800"/>
 <div style="text-align: left;">
-  <a href="Beachie_Creek_Lionshead_Overview.jpg" target="_blank"> View full-size map</a>
+  <a href="https://dustinlit.github.io/Burn-Severity-and-Vegetation-Mortality-Analysis-of-the-Beachie-Creek-Lionshead-Complex-Fire/" target="_blank"> Burn Severity and Vegetation Mortality Analysis of the Beachie Creek–Lionshead Complex Fire</a>
 </div>
 <br>
 
-<img src="Burn_Severity_Detroit.jpg" alt="Douglas Fir Distribution" width="300"/>
+<img src="Burn_Severity_Detroit.jpg" alt="Douglas Fir Distribution" width="800"/>
 <div style="text-align: left;">
-  <a href="Beachie_Creek_Lionshead_Overview.jpg" target="_blank"> View full-size map</a>
+  <a href="https://dustinlit.github.io/Burn-Severity-and-Vegetation-Mortality-Analysis-of-the-Beachie-Creek-Lionshead-Complex-Fire/" target="_blank"> Burn Severity and Vegetation Mortality Analysis of the Beachie Creek–Lionshead Complex Fire</a>
 </div>
 <br>
 
-<img src="Burn_Severity_Gates.jpg" alt="Douglas Fir Distribution" width="300"/>
+<img src="Burn_Severity_Gates.jpg" alt="Douglas Fir Distribution" width="800"/>
 <div style="text-align: left;">
-  <a href="Beachie_Creek_Lionshead_Overview.jpg" target="_blank"> View full-size map</a>
+  <a href="https://dustinlit.github.io/Burn-Severity-and-Vegetation-Mortality-Analysis-of-the-Beachie-Creek-Lionshead-Complex-Fire/" target="_blank"> Burn Severity and Vegetation Mortality Analysis of the Beachie Creek–Lionshead Complex Fire</a>
 </div>
 <br>
 
-<img src="False_Color_Beachie_Creek_Lionshead.jpg" alt="Douglas Fir Distribution" width="300"/>
+<img src="False_Color_Beachie_Creek_Lionshead.jpg" alt="Douglas Fir Distribution" width="800"/>
 <div style="text-align: left;">
-  <a href="Beachie_Creek_Lionshead_Overview.jpg" target="_blank"> View full-size map</a>
+  <a href="https://dustinlit.github.io/Burn-Severity-and-Vegetation-Mortality-Analysis-of-the-Beachie-Creek-Lionshead-Complex-Fire/" target="_blank"> Burn Severity and Vegetation Mortality Analysis of the Beachie Creek–Lionshead Complex Fire</a>
 </div>
 <br>
 
-<img src="NDVI_Beacie_Creek_Lionshead.jpg" alt="Douglas Fir Distribution" width="300"/>
+<img src="NDVI_Beacie_Creek_Lionshead.jpg" alt="Douglas Fir Distribution" width="800"/>
 <div style="text-align: left;">
-  <a href="Beachie_Creek_Lionshead_Overview.jpg" target="_blank"> View full-size map</a>
+  <a href="https://dustinlit.github.io/Burn-Severity-and-Vegetation-Mortality-Analysis-of-the-Beachie-Creek-Lionshead-Complex-Fire/" target="_blank"> Burn Severity and Vegetation Mortality Analysis of the Beachie Creek–Lionshead Complex Fire</a>
 </div>
 <br>
 
 #### Dixe Fire, California 2021
 
-<img src="Dixie_figure_5.jpg" alt="Douglas Fir Distribution" width="300"/>
+<img src="Dixie_figure_5.jpg" alt="Douglas Fir Distribution" width="800"/>
 <div style="text-align: left;">
-  <a href="Beachie_Creek_Lionshead_Overview.jpg" target="_blank"> View full-size map</a>
+  <a href="https://dustinlit.github.io/Dixie-Fire-Burn-Severity-Analysis/" target="_blank"> Assessing Vegetation Loss and Burn Severity in the 2021 Dixie Fire Using Landsat 8</a>
 </div>
 <br>
 
-<img src="Dixie_figure_6.jpg" alt="Douglas Fir Distribution" width="300"/>
+<img src="Dixie_figure_6.jpg" alt="Douglas Fir Distribution" width="800"/>
 <div style="text-align: left;">
-  <a href="Beachie_Creek_Lionshead_Overview.jpg" target="_blank"> View full-size map</a>
+  <a href="https://dustinlit.github.io/Dixie-Fire-Burn-Severity-Analysis/" target="_blank"> Assessing Vegetation Loss and Burn Severity in the 2021 Dixie Fire Using Landsat 8</a>
 </div>
 <br>
 
-<img src="figure_2.jpg" alt="Douglas Fir Distribution" width="300"/>
+<img src="figure_2.jpg" alt="Douglas Fir Distribution" width="800"/>
 <div style="text-align: left;">
-  <a href="Beachie_Creek_Lionshead_Overview.jpg" target="_blank"> View full-size map</a>
+  <a href="https://dustinlit.github.io/Dixie-Fire-Burn-Severity-Analysis/" target="_blank"> Assessing Vegetation Loss and Burn Severity in the 2021 Dixie Fire Using Landsat 8</a>
 </div>
 <br>
 
@@ -76,29 +76,29 @@ This portfolio presents a curated selection of cartographic and geospatial analy
 
 #### Atlanta Metropolis Region 2000 - 2020
 
-<img src="figure_3.jpg" alt="Douglas Fir Distribution" width="300"/>
+<img src="figure_3.jpg" alt="Douglas Fir Distribution" width="800"/>
 <div style="text-align: left;">
-  <a href="Beachie_Creek_Lionshead_Overview.jpg" target="_blank"> View full-size map</a>
+  <a href="https://dustinlit.github.io/Atlanta-Urban-Sprawl-Change-Detection/" target="_blank"> Atlanta-Urban-Sprawl-Change-Detection</a>
 </div>
 <br>
 
-<img src="figure_5.jpg" alt="Douglas Fir Distribution" width="300"/>
+<img src="figure_5.jpg" alt="Douglas Fir Distribution" width="800"/>
 <div style="text-align: left;">
-  <a href="Beachie_Creek_Lionshead_Overview.jpg" target="_blank"> View full-size map</a>
+  <a href="https://dustinlit.github.io/Atlanta-Urban-Sprawl-Change-Detection/" target="_blank"> Atlanta-Urban-Sprawl-Change-Detection</a>
 </div>
 <br>
 
 ### Hydrology
 
-<img src="figure_1.jpg" alt="Douglas Fir Distribution" width="300"/>
+<img src="figure_1.jpg" alt="Douglas Fir Distribution" width="800"/>
 <div style="text-align: left;">
-  <a href="Beachie_Creek_Lionshead_Overview.jpg" target="_blank"> View full-size map</a>
+  <a href="https://dustinlit.github.io/Pennsylvania-Hydrology-ML-Streamflow-Forecasting/" target="_blank"> Pennsylvania-Hydrology-ML-Streamflow-Forecasting</a>
 </div>
 <br>
 
-<img src="PA_figure_5.jpg" alt="Douglas Fir Distribution" width="300"/>
+<img src="PA_figure_5.jpg" alt="Douglas Fir Distribution" width="800"/>
 <div style="text-align: left;">
-  <a href="Beachie_Creek_Lionshead_Overview.jpg" target="_blank"> View full-size map</a>
+  <a href="https://dustinlit.github.io/Pennsylvania-Hydrology-ML-Streamflow-Forecasting/" target="_blank"> Pennsylvania-Hydrology-ML-Streamflow-Forecasting</a>
 </div>
 <br>
 
