@@ -2,6 +2,13 @@
 layout: default
 ---
 
+<style>
+  h2 {
+    font-size: 1.8rem;   /* default is ~1.3rem */
+    margin-top: 2.5rem;  /* adds breathing room */
+  }
+</style>
+
 ## About This Portfolio
 This portfolio presents a curated selection of cartographic and geospatial analysis work, highlighting thematic mapping, spatial modeling, and data visualization techniques developed through GIS and remote sensing workflows.
 
