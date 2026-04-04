@@ -15,9 +15,10 @@ This portfolio presents a curated selection of cartographic and geospatial analy
 ---
 
 ## Beachie Creek–Lionshead Complex Fire, Oregon 2020  
+**Summary**: A multi‑sensor wildfire assessment using Sentinel‑2 imagery to compute NBR, dNBR, NDVI, and false‑color composites, classify burn severity, and evaluate species‑specific vegetation mortality across the Cascade Range. <br>
 [View full report →](https://dustinlit.github.io/Burn-Severity-and-Vegetation-Mortality-Analysis-of-the-Beachie-Creek-Lionshead-Complex-Fire/)
-
-
+<br>
+<br>
 <a href="https://dustinlit.github.io/Burn-Severity-and-Vegetation-Mortality-Analysis-of-the-Beachie-Creek-Lionshead-Complex-Fire/" target="_blank">
   <img src="Beachie_Creek_Lionshead_Overview.jpg" alt="" width="800"/>
 </a>
@@ -42,11 +43,12 @@ This portfolio presents a curated selection of cartographic and geospatial analy
   <img src="NDVI_Beacie_Creek_Lionshead.jpg" alt="NDVI Beachie Creek Lionshead" width="800"/>
 </a>
 <br>
-
---- 
+<br>
 
 ## Dixie Fire, California 2021
+**Summary:** A Landsat‑8–based burn severity workflow applying NBR/dNBR, pre‑/post‑fire spectral comparison, and USGS severity thresholds to quantify vegetation loss and landscape‑scale fire impacts. <br>
 [View full report →](https://dustinlit.github.io/Dixie-Fire-Burn-Severity-Analysis/)
+<br>
 
 <a href="https://dustinlit.github.io/Dixie-Fire-Burn-Severity-Analysis/" target="_blank">
   <img src="Dixie_figure_5.jpg" alt="Dixie Fire Figure 5" width="800"/>
@@ -62,11 +64,12 @@ This portfolio presents a curated selection of cartographic and geospatial analy
   <img src="figure_2.jpg" alt="Dixie Fire Figure 2" width="800"/>
 </a>
 <br>
-
----
+<br>
 
 ## Atlanta Metropolis Region 2000–2020
+**Summary:** A two‑decade land‑cover change detection analysis using Landsat imagery, supervised classification, and spatial metrics to map urban growth patterns and quantify development across the Atlanta metropolitan region.<br>
 [View full report →](https://dustinlit.github.io/Atlanta-Urban-Sprawl-Change-Detection/)
+
 
 <a href="https://dustinlit.github.io/Atlanta-Urban-Sprawl-Change-Detection/" target="_blank">
   <img src="figure_3.jpg" alt="Atlanta Urban Sprawl Figure 3" width="800"/>
@@ -77,8 +80,11 @@ This portfolio presents a curated selection of cartographic and geospatial analy
   <img src="figure_5.jpg" alt="Atlanta Urban Sprawl Figure 5" width="800"/>
 </a>
 <br>
+<br>
 
 ## Pennsylvania Hydrology 2024
+**Summary:** A machine‑learning hydrology project integrating watershed variables, climate predictors, and USGS streamflow records to train and evaluate regression models for short‑term flow forecasting.
+<br>
 [View full report →](https://dustinlit.github.io/Pennsylvania-Hydrology-ML-Streamflow-Forecasting/)
 
 <a href="https://dustinlit.github.io/Pennsylvania-Hydrology-ML-Streamflow-Forecasting/" target="_blank">
@@ -107,8 +113,7 @@ This portfolio presents a curated selection of cartographic and geospatial analy
   <img src="Barriers.jpg" alt="Barriers to Wildlife Linkages in Oregon" width="400"/>
 </a>
 
-
----
+<br>
 
 ## Tools & Techniques Used
 
@@ -118,7 +123,6 @@ This portfolio presents a curated selection of cartographic and geospatial analy
 - **Remote Sensing & DEM analysis**  
 - **Cartographic Design & Layout Styling**
 
----
 
 ## Contact
 
@@ -127,7 +131,6 @@ based in Oregon, USA
 [LinkedIn](https://www.linkedin.com/in/dustin-littlefield-629803323)  
 **Email:** dustinlit@gmail.com
 
----
 
 ## License
 
