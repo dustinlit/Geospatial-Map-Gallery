@@ -43,8 +43,10 @@ This portfolio presents a curated selection of cartographic and geospatial analy
 </a>
 <br>
 
-## Dixie Fire, California 2021
+--- 
 
+## Dixie Fire, California 2021
+[View full report →](https://dustinlit.github.io/Dixie-Fire-Burn-Severity-Analysis/)
 <a href="https://dustinlit.github.io/Dixie-Fire-Burn-Severity-Analysis/" target="_blank">
   <img src="Dixie_figure_5.jpg" alt="Dixie Fire Figure 5" width="800"/>
 </a>
@@ -62,9 +64,8 @@ This portfolio presents a curated selection of cartographic and geospatial analy
 
 ---
 
-### Urban Expansion
-
-#### Atlanta Metropolis Region 2000–2020
+## Atlanta Metropolis Region 2000–2020
+[View full report →](https://dustinlit.github.io/Atlanta-Urban-Sprawl-Change-Detection/)
 
 <a href="https://dustinlit.github.io/Atlanta-Urban-Sprawl-Change-Detection/" target="_blank">
   <img src="figure_3.jpg" alt="Atlanta Urban Sprawl Figure 3" width="800"/>
@@ -77,6 +78,7 @@ This portfolio presents a curated selection of cartographic and geospatial analy
 <br>
 
 ## Hydrology
+[View full report →](https://dustinlit.github.io/Pennsylvania-Hydrology-ML-Streamflow-Forecasting/)
 
 <a href="https://dustinlit.github.io/Pennsylvania-Hydrology-ML-Streamflow-Forecasting/" target="_blank">
   <img src="figure_1.jpg" alt="Pennsylvania Hydrology Figure 1" width="800"/>
