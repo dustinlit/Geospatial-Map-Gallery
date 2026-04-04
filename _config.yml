@@ -3,4 +3,5 @@ title: "Geospatial Map Gallery"
 description: >
  This portfolio presents a curated selection of cartographic and geospatial analysis work, highlighting thematic mapping, spatial modeling, and data visualization techniques developed through GIS and remote sensing workflows.                                         
  - Dustin Littlefield
+ [![Repository](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/dustinlit/Geospatial-Map-Gallery)
 theme: jekyll-theme-minimal
