@@ -12,15 +12,6 @@ layout: default
 ## About This Portfolio
 This portfolio presents a curated selection of cartographic and geospatial analysis work, highlighting thematic mapping, spatial modeling, and data visualization techniques developed through GIS and remote sensing workflows.
 
-- Forestry and land‑use mapping projects  
-- Urban development and transportation analyses  
-- Wildlife and habitat‑focused studies  
-- Environmental health and interpolation work  
-- Global reference maps and datasets  
-- Story Maps created for coursework and independent projects
-
-
-
 ## Beachie Creek–Lionshead Complex Fire, Oregon 2020  
 ![Status: Completed](https://img.shields.io/badge/Status-Completed-success)
 [![View Report](https://img.shields.io/badge/View-Full%20Report-blue?style=for-the-badge&logo=github)](https://dustinlit.github.io/Burn-Severity-and-Vegetation-Mortality-Analysis-of-the-Beachie-Creek-Lionshead-Complex-Fire/)
