@@ -9,7 +9,7 @@ layout: default
   }
 </style>
 
-## About This Portfolio
+## About This Gallery
 This portfolio presents a curated selection of cartographic and geospatial analysis work, highlighting thematic mapping, spatial modeling, and data visualization techniques developed through GIS and remote sensing workflows.
 
 ## Beachie Creek–Lionshead Complex Fire, Oregon 2020  
