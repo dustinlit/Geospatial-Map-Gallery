@@ -160,7 +160,7 @@ This gallery presents a curated selection of cartographic and geospatial analysi
 
 <br>
 
-## Additional Maps
+## Archived Maps
 
 [More Maps & Projects](https://dustinlit.github.io/Geospatial-Map-Gallery/More)
 
