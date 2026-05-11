@@ -277,6 +277,12 @@ This portfolio is organized into thematic categories that reflect the range of g
 </a>
 ---
 
+<br>
+
+## Additional Maps
+
+[More Maps & Projects](https://dustinlit.github.io/Geospatial-Map-Gallery/More)
+
 ## Tools & Techniques Used
 
 - **ArcGIS Pro**  
