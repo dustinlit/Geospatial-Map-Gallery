@@ -68,7 +68,7 @@ This gallery presents a curated selection of cartographic and geospatial analysi
 **Summary:** This project utilizes multi-temporal LIDAR to quantify wildfire related impacts on forest and topography within a sample of the 2020 Beachie Creek fire. By comparing pre‑fire and post‑fire datasets, the analysis evaluates canopy loss, surviving vegetation structure, debris accumulation, and topographic stability following a high‑severity wildfire event. 
 <br>
 
-<a href="https://github.com/dustinlit/Beachie-Creek-LiDAR-Postfire-Analysis/" target="_blank">
+<a href="https://dustinlit.github.io/Beachie-Creek-LiDAR-Postfire-Analysis/" target="_blank">
   <img src="chm.jpg" alt="Canopy Height Models" width="800"/>
 </a>
 <div style="text-align:left; font-size:0.9rem; margin-top:4px;">
@@ -76,7 +76,7 @@ This gallery presents a curated selection of cartographic and geospatial analysi
 </div>
 <br>
 
-<a href="https://github.com/dustinlit/Beachie-Creek-LiDAR-Postfire-Analysis/" target="_blank">
+<a href="https://dustinlit.github.io/Beachie-Creek-LiDAR-Postfire-Analysis/" target="_blank">
   <img src="groves.jpg" alt="Grove metrics" width="800"/>
 </a>
 <div style="text-align:left; font-size:0.9rem; margin-top:4px;">
@@ -84,7 +84,7 @@ This gallery presents a curated selection of cartographic and geospatial analysi
 </div>
 <br>
 
-<a href="https://github.com/dustinlit/Beachie-Creek-LiDAR-Postfire-Analysis/" target="_blank">
+<a href="https://dustinlit.github.io/Beachie-Creek-LiDAR-Postfire-Analysis/" target="_blank">
   <img src="topo.jpg" alt="Topographic surface" width="800"/>
 </a>
 <div style="text-align:left; font-size:0.9rem; margin-top:4px;">
