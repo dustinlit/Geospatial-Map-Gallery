@@ -65,26 +65,32 @@ This gallery presents a curated selection of cartographic and geospatial analysi
 [![View Report](https://img.shields.io/badge/View-Full%20Report-blue?style=for-the-badge&logo=github)](https://dustinlit.github.io/Beachie-Creek-LiDAR-Postfire-Analysis/)
 [![Repository](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/dustinlit/Beachie-Creek-LiDAR-Postfire-Analysis)
 
+**Summary:** This project utilizes multi-temporal LIDAR to quantify wildfire related impacts on forest and topography within a sample of the 2020 Beachie Creek fire. By comparing pre‑fire and post‑fire datasets, the analysis evaluates canopy loss, surviving vegetation structure, debris accumulation, and topographic stability following a high‑severity wildfire event. 
+<br>
+
 <a href="https://github.com/dustinlit/Beachie-Creek-LiDAR-Postfire-Analysis/" target="_blank">
   <img src="chm.jpg" alt="Canopy Height Models" width="800"/>
 </a>
 <div style="text-align:left; font-size:0.9rem; margin-top:4px;">
   <a href="chm.jpg" target="_blank">View full-size image</a>
 </div>
+<br>
 
 <a href="https://github.com/dustinlit/Beachie-Creek-LiDAR-Postfire-Analysis/" target="_blank">
-  <img src="groves.jpg" alt="Canopy Height Models" width="800"/>
+  <img src="groves.jpg" alt="Grove metrics" width="800"/>
 </a>
 <div style="text-align:left; font-size:0.9rem; margin-top:4px;">
   <a href="groves.jpg" target="_blank">View full-size image</a>
 </div>
+<br>
 
 <a href="https://github.com/dustinlit/Beachie-Creek-LiDAR-Postfire-Analysis/" target="_blank">
-  <img src="topo.jpg" alt="Canopy Height Models" width="800"/>
+  <img src="topo.jpg" alt="Topographic surface" width="800"/>
 </a>
 <div style="text-align:left; font-size:0.9rem; margin-top:4px;">
   <a href="topo.jpg" target="_blank">View full-size image</a>
 </div>
+<br>
 
 <br><br>
 ## Dixie Fire, California 2021
