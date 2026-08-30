@@ -60,7 +60,33 @@ This gallery presents a curated selection of cartographic and geospatial analysi
 </div>
 <br><br>
 
+## LiDAR Analysis of Pre‑ and Post‑Fire Forest Structure in the 2020 Beachie Creek Fire
+![Status: Completed](https://img.shields.io/badge/Status-Completed-success)
+[![View Report](https://img.shields.io/badge/View-Full%20Report-blue?style=for-the-badge&logo=github)](https://dustinlit.github.io/Beachie-Creek-LiDAR-Postfire-Analysis/)
+[![Repository](https://img.shields.io/badge/GitHub-Repo-black?style=for-the-badge&logo=github)](https://github.com/dustinlit/Beachie-Creek-LiDAR-Postfire-Analysis)
 
+<a href="https://github.com/dustinlit/Beachie-Creek-LiDAR-Postfire-Analysis/" target="_blank">
+  <img src="chm.jpg" alt="Canopy Height Models" width="800"/>
+</a>
+<div style="text-align:left; font-size:0.9rem; margin-top:4px;">
+  <a href="chm.jpg" target="_blank">View full-size image</a>
+</div>
+
+<a href="https://github.com/dustinlit/Beachie-Creek-LiDAR-Postfire-Analysis/" target="_blank">
+  <img src="groves.jpg" alt="Canopy Height Models" width="800"/>
+</a>
+<div style="text-align:left; font-size:0.9rem; margin-top:4px;">
+  <a href="groves.jpg" target="_blank">View full-size image</a>
+</div>
+
+<a href="https://github.com/dustinlit/Beachie-Creek-LiDAR-Postfire-Analysis/" target="_blank">
+  <img src="topo.jpg" alt="Canopy Height Models" width="800"/>
+</a>
+<div style="text-align:left; font-size:0.9rem; margin-top:4px;">
+  <a href="topo.jpg" target="_blank">View full-size image</a>
+</div>
+
+<br><br>
 ## Dixie Fire, California 2021
 ![Status: Completed](https://img.shields.io/badge/Status-Completed-success)
 [![View Report](https://img.shields.io/badge/View-Full%20Report-blue?style=for-the-badge&logo=github)](https://dustinlit.github.io/Dixie-Fire-Burn-Severity-Analysis/)
